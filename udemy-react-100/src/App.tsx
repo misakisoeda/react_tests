@@ -1,11 +1,11 @@
 import './App.css';
-import StyledBox from './components/basic/Question04';
+import DynamicImage from './components/basic/Question05';
 
 function App() {
 
   return (
     <>
-      <StyledBox />
+      <DynamicImage />
     </>
   )
 }
