@@ -1,11 +1,11 @@
 import './App.css';
-import Introduction from './components/basic/Question03';
+import StyledBox from './components/basic/Question04';
 
 function App() {
 
   return (
     <>
-      <Introduction />
+      <StyledBox />
     </>
   )
 }
