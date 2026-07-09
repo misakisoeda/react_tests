@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# 学習用メモ（TSユーティリティ型など）
+notes/
