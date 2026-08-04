@@ -1,13 +1,12 @@
-import './App.css';
-import Question28 from './components/basic/Question28';
+import "./App.css";
+import Question29 from "./components/basic/Question29";
 
 function App() {
-
   return (
     <>
-      <Question28 />
+      <Question29 />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
